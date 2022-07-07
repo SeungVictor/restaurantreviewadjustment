@@ -1,4 +1,4 @@
-# Restaurant review adjustment
+# Restaurant review score adjustment
 # 식당 리뷰 별점 재조정
 <div align="center">
     <img src="https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/1.png" alt="Logo" width="300">
