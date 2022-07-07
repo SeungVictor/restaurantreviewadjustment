@@ -8,7 +8,7 @@
 
 ## 캠퍼스봄날씨 팀원
 
-| [박승](https://github.com/SeungVictor) | [배진성](baejinsung0126@gmail.com) | [빈준영](binjunyoung@u.sogang.ac.kr) | [안덕성](dsahn95@gmail.com) | [오성현](ffcf77@gmail.com) | [이재열](coramdeojy@gmail.com) |
+| [박승](https://github.com/SeungVictor) | [배진성(baejinsung0126@gmail.com)] | [빈준영(binjunyoung@u.sogang.ac.kr)] | [안덕성(dsahn95@gmail.com)] | [오성현(ffcf77@gmail.com)] | [이재열(coramdeojy@gmail.com)] |
 | :---:|:---:|:---:|:---:|:---:|:---:|
 <hr><br>
 
