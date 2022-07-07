@@ -1,7 +1,7 @@
 # Restaurant review adjustment
 # 식당 리뷰 별점 재조정
 <div align="center">
-    <img src="https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/1.png" alt="Logo" width="300">
+    <img src="https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/1.png" alt="Logo" width="300">자체제작로고
     <br>
     <h3 align="center">Sogang AIBI 2기 프랙티컴 경진대회 우등상 <캠퍼스봄날씨></h3>
 </div>
