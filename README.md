@@ -12,6 +12,10 @@
 | :---:|:---:|:---:|:---:|:---:|:---:|
 <hr><br>
 
+[제출본pdf]([https://public.tableau.com/app/profile/.36194374/viz/sogaeting/1_1?publish=yes](https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%B4_%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%ED%95%A9%EB%B3%B8_%EC%B5%9C%EC%A2%85.pdf))
+    
+ 
+    
 ## 개요
 - 식당을 선택함에 있어 별점이나 리뷰를 참고하지만 리뷰내용과 실제 별점은 잘맞지 않는 경우가 많음 <br>
 - 리뷰를 내용에 맞게 재조정하여 신뢰성 있는 별점 제공 및 별점 내용과 시간정보를 활용하여 소비자에게 유용한 대시보드 제공 <br>
