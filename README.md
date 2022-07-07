@@ -12,7 +12,8 @@
 | :---:|:---:|:---:|:---:|:---:|:---:|
 <hr><br>
 
-[제출본pdf]([https://public.tableau.com/app/profile/.36194374/viz/sogaeting/1_1?publish=yes](https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%B4_%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%ED%95%A9%EB%B3%B8_%EC%B5%9C%EC%A2%85.pdf))
+<a href="https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%B4_%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%ED%95%A9%EB%B3%B8_%EC%B5%9C%EC%A2%85.pdf">제출본pdf
+    </a>
     
  
     
