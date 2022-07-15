@@ -11,10 +11,7 @@
 | [박승](https://github.com/SeungVictor) | 배진성(baejinsung0126@gmail.com) | 빈준영(binjunyoung@u.sogang.ac.kr) | 안덕성(dsahn95@gmail.com) | 오성현(ffcf77@gmail.com) | 이재열(coramdeojy@gmail.com) |
 | :---:|:---:|:---:|:---:|:---:|:---:|
 <hr><br>
-
-<a href="https://github.com/SeungVictor/restaurantreviewadjustment/blob/main/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%B4_%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%ED%95%A9%EB%B3%B8_%EC%B5%9C%EC%A2%85.pdf">제출본pdf
-    </a>
-    
+  
  
     
 ## 개요
